@@ -1,8 +1,26 @@
-<img src="assets/banner.svg" alt="Tanveer Singh — Full-Stack Developer" width="100%" />
+<img src="assets/banner.svg" alt="Tanveer Singh — Full-Stack Developer & AI Builder" width="100%" />
 
-I build web applications with clear interfaces and dependable business logic. My experience spans **React, Laravel, Core PHP, WordPress, REST APIs and payment integrations**.
+I build websites, web applications and useful AI tools. I’m a freelance full-stack developer based in Panjab, India, working across interfaces, backend logic, data and integrations.
 
-I enjoy taking a workflow from the first screen through validation, backend rules and persistent data. These repositories are independent portfolio projects with working demos, documented trade-offs and tests.
+I enjoy taking a workflow from the first screen through validation, backend rules and persistent data. My portfolio projects include working demos, documented trade-offs and tests.
+
+### Stack & capabilities
+
+My [portfolio toolkit](https://www.singhtanveer.com/about) covers the following areas. I choose the tools around the project’s requirements and existing systems.
+
+| Area | Technologies & tools |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript |
+| Backend & APIs | Node.js, Express, PHP, Laravel, REST, GraphQL |
+| Data & cloud | PostgreSQL, Redis, AWS |
+| Commerce & content | Shopify, WordPress, WooCommerce, custom themes & plugins |
+| Design & interaction | Figma, GSAP, responsive interfaces |
+
+**Engineering practice:** system design, software engineering, testing & CI/CD, API integrations, performance optimization and debugging. See my [development and design services](https://www.singhtanveer.com/services) for how these fit into a project.
+
+### Applied AI & continued learning
+
+My current toolkit also includes **Python, C#, .NET, agentic AI, retrieval-augmented generation (RAG), generative AI and LLM applications**. I continue learning through hands-on work in these areas, focusing on document search, useful answers and workflow automation with clear checks and human review.
 
 ### Explore the projects
 
@@ -14,7 +32,7 @@ I enjoy taking a workflow from the first screen through validation, backend rule
 
 **Live demos:** [WebhookLab](https://webhooklab-umber.vercel.app) · [FieldPilot](https://fieldpilot-pied.vercel.app) · [PayRoute Sandbox](https://payroute-sandbox.vercel.app)
 
-The demos use **React + TypeScript, Node serverless APIs and PostgreSQL**. Each visitor gets a separate browser-scoped workspace. Payment providers and downstream delivery are simulated; no real funds move. FieldPilot uses a rule-based command preview with optional browser speech recognition.
+The demos use **React + TypeScript, Node serverless APIs and PostgreSQL**. Each repository documents its implementation stack, setup and access details. Payment providers and downstream delivery are simulated; no real funds move. FieldPilot uses a rule-based command preview with optional browser speech recognition.
 
 ### How I approach a build
 
@@ -28,4 +46,4 @@ The demos use **React + TypeScript, Node serverless APIs and PostgreSQL**. Each 
 
 [**Portfolio — singhtanveer.com**](https://singhtanveer.com) · [**LinkedIn**](https://www.linkedin.com/in/singhtanveerdev/)
 
-Based in Punjab, India. Interested in practical web products, backend development and thoughtful user experiences.
+Based in Panjab, India. Interested in practical web products, backend development and thoughtful user experiences.
