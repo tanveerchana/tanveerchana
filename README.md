@@ -1,5 +1,7 @@
 <img src="assets/banner.svg" alt="Tanveer Singh — Full-Stack Developer & AI Builder" width="100%" />
 
+<img src="assets/portrait.webp" alt="Tanveer Singh" width="168" align="right" />
+
 I build websites, web applications and useful AI tools. I’m a freelance full-stack developer based in Panjab, India, working across interfaces, backend logic, data and integrations.
 
 I enjoy taking a workflow from the first screen through validation, backend rules and persistent data. My portfolio projects include working demos, documented trade-offs and tests.
@@ -29,6 +31,15 @@ My current toolkit also includes **Python, C#, .NET, agentic AI, retrieval-augme
 | [**WebhookLab**](https://github.com/tanveerchana/webhooklab) | Capture signed HTTP events, inspect payloads and replay failed deliveries. | Raw-body HMAC verification, bounded retries and event history. |
 | [**FieldPilot**](https://github.com/tanveerchana/fieldpilot) | Take a renovation estimate through approval, a scheduled job and a paid invoice. | Validated state transitions, exact money calculations and review-first commands. |
 | [**PayRoute Sandbox**](https://github.com/tanveerchana/payroute-sandbox) | Trigger provider failures, replay a payment key and reconcile a settlement statement. | Idempotency, deterministic routing and concurrent write safety. |
+
+### More backend projects
+
+| Project | Implementation | Engineering focus |
+| --- | --- | --- |
+| [**BriefLedger**](https://github.com/tanveerchana/briefledger) | Python, FastAPI, SQLite FTS5 | Private document collections, ranked evidence with source locations, upload limits and session isolation. |
+| [**Stockroom**](https://github.com/tanveerchana/stockroom) | Core PHP, PDO SQLite | Tenant roles, atomic inventory reservations, idempotent receipts and immutable stock movements. |
+
+Try the live demos: [BriefLedger](https://briefledger.onrender.com/) · [Stockroom](https://stockroom-kz2t.onrender.com/). These projects include runnable setup, automated tests and deployment configurations. BriefLedger uses lexical retrieval and returns supporting passages; it does not claim LLM-generated answers. Their free hosted previews use temporary storage; persistent installations require a durable volume.
 
 **Live demos:** [WebhookLab](https://webhooklab-umber.vercel.app) · [FieldPilot](https://fieldpilot-pied.vercel.app) · [PayRoute Sandbox](https://payroute-sandbox.vercel.app)
 
